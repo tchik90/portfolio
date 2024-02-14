@@ -32,7 +32,7 @@ navbar.innerHTML =
             '</li>'+
 
             '<li class="nav-item">'+
-                '<a class="nav-link bg-dark-subtle" href="https://github.com/">GitHub</a>'+
+                '<a class="nav-link bg-dark-subtle" href="https://github.com/tchik90?tab=repositories" target="_blank">Mon GitHub</a>'+
             '</li>'+
 
         '</ul>'+
