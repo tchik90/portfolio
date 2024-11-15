@@ -35,9 +35,9 @@ navbar.innerHTML =
                 '<a class="nav-link bg-dark-subtle" href="stage.html">Stage</a>'+
             '</li>'+
 
-            '<li class="nav-item">'+
-                '<a class="nav-link bg-dark-subtle" href="https://github.com/tchik90?tab=repositories" target="_blank">Mon GitHub</a>'+
-            '</li>'+
+            // '<li class="nav-item">'+
+            //     '<a class="nav-link bg-dark-subtle" href="https://github.com/tchik90?tab=repositories" target="_blank">Mon GitHub</a>'+
+            // '</li>'+
 
         '</ul>'+
     '</div>'+
